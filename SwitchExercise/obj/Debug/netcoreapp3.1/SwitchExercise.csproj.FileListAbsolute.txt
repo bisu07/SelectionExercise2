@@ -1,0 +1,14 @@
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\bin\Debug\netcoreapp3.1\SwitchExercise.exe
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\bin\Debug\netcoreapp3.1\SwitchExercise.deps.json
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\bin\Debug\netcoreapp3.1\SwitchExercise.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\bin\Debug\netcoreapp3.1\SwitchExercise.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\bin\Debug\netcoreapp3.1\SwitchExercise.dll
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\bin\Debug\netcoreapp3.1\SwitchExercise.pdb
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.dll
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.pdb
+C:\Users\bishal\Desktop\repos\SwitchExercise\SwitchExercise\obj\Debug\netcoreapp3.1\SwitchExercise.genruntimeconfig.cache
